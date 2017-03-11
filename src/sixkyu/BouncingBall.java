@@ -1,3 +1,9 @@
+package sixkyu;
+
+/**
+ * https://www.codewars.com/kata/bouncing-balls
+ */
+
 public class BouncingBall {
   public static void main(String[] args) {
     System.out.println(bouncingBall(3, 1, 1.5));

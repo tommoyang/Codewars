@@ -1,3 +1,9 @@
+package sixkyu;
+
+/**
+ * https://www.codewars.com/kata/stop-gninnips-my-sdrow
+ */
+
 public class SpinWords {
   public static void main(String[] args) {
     spinWords( "Hey fellow warriors" ); // "Hey wollef sroirraw"

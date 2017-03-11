@@ -1,4 +1,10 @@
-public class AvengersLine {
+package fivekyu;
+
+/**
+ * https://www.codewars.com/kata/vasya-clerk
+ */
+
+public class VasyaLine {
   public static String Tickets(int[] peopleInLine) {
     int twentyfive = 0;
     int fifty = 0;

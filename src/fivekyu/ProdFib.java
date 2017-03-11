@@ -1,5 +1,10 @@
-public class ProdFib { // must be public for codewars
+package fivekyu;
 
+/**
+ * https://www.codewars.com/kata/product-of-consecutive-fib-numbers
+ */
+
+public class ProdFib {
   public static long[] productFib(long prod) {
     long a = 0;
     long b = 0;

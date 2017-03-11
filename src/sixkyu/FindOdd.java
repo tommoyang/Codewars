@@ -1,6 +1,12 @@
+package sixkyu;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
+
+/**
+ * https://www.codewars.com/kata/find-the-odd-int
+ */
 
 public class FindOdd {
   public static int findIt(int[] A) {

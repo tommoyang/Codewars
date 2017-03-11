@@ -1,3 +1,9 @@
+package sevenkyu;
+
+/**
+ * https://www.codewars.com/kata/recursive-reverse-string
+ */
+
 public class RecursiveReverseString {
 
   public static void main(String[] args) {

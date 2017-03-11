@@ -1,9 +1,10 @@
+package fivekyu;
+
+/**
+ * https://www.codewars.com/kata/human-readable-time
+ */
+
 public class HumanReadableTime {
-
-  public static void main(String[] args) {
-
-  }
-
   public static String makeReadable(int seconds) {
     int minutes = seconds / 60;
     int hours = minutes / 60;

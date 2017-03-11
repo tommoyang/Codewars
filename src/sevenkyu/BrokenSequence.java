@@ -1,5 +1,11 @@
+package sevenkyu;
+
 import java.util.Arrays;
 import java.util.Comparator;
+
+/**
+ * https://www.codewars.com/kata/broken-sequence
+ */
 
 public class BrokenSequence {
   public int findMissingNumber(String sequence) {

@@ -1,3 +1,9 @@
+package fivekyu;
+
+/**
+ * https://www.codewars.com/kata/primes-in-numbers
+ */
+
 public class PrimeDecomp {
 
   public static void main(String[] args) {

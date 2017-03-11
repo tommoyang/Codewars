@@ -1,4 +1,10 @@
+package fivekyu;
+
 import static org.junit.Assert.assertTrue;
+
+/**
+ * https://www.codewars.com/kata/merged-string-checker
+ */
 
 public class StringMerger {
 

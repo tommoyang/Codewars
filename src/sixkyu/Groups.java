@@ -1,4 +1,10 @@
+package sixkyu;
+
 import java.util.Stack;
+
+/**
+ * https://www.codewars.com/kata/checking-groups
+ */
 
 public class Groups {
 

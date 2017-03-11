@@ -1,5 +1,11 @@
+package fourkyu;
+
 import java.util.ArrayList;
 import java.util.List;
+
+/**
+ * https://www.codewars.com/kata/square-into-squares-protect-trees
+ */
 
 public class Decompose {
   public static void main(String[] args) {

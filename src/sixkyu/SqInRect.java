@@ -1,5 +1,11 @@
+package sixkyu;
+
 import java.util.ArrayList;
 import java.util.List;
+
+/**
+ * https://www.codewars.com/kata/rectangle-into-squares
+ */
 
 public class SqInRect {
 

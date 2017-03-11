@@ -1,5 +1,11 @@
+package fourkyu;
+
 import java.util.ArrayList;
 import java.util.List;
+
+/**
+ * https://www.codewars.com/kata/twice-linear
+ */
 
 public class DoubleLinear {
   public static void main(String[] args) {

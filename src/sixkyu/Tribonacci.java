@@ -1,3 +1,9 @@
+package sixkyu;
+
+/**
+ * https://www.codewars.com/kata/tribonacci-sequence
+ */
+
 public class Tribonacci {
   public double[] tribonacci(double[] s, int n) {
     if (n == 0) return new double[]{0};

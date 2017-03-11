@@ -1,3 +1,9 @@
+package sevenkyu;
+
+/**
+ * https://www.codewars.com/kata/sum-of-odd-numbers
+ */
+
 public class OddNumberSum {
   public static void main(String[] args) {
     // 1
